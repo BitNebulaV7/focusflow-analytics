@@ -1,0 +1,22 @@
+# Core Python libraries for data analysis
+pandas
+numpy
+pytest
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Stats 
+scikit-learn
+statsmodels
+
+# Data handling & cleaning
+openpyxl       
+pyyaml        
+
+
+jupyter
+notebook
+
+faker
